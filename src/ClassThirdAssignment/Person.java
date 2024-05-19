@@ -1,4 +1,4 @@
-package Class3;
+package ClassThirdAssignment;
 
 public class Person {
     String name;

@@ -1,10 +1,14 @@
-package Class3;
+package ClassThirdAssignment;
 
-public class Book {
+public class pen {
+
     String color;
 
     public void write(){
         System.out.println(color + " color write");
     }
 
+    public void canWrite() {
+
+    }
 }

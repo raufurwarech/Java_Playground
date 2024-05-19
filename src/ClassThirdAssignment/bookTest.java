@@ -1,4 +1,4 @@
-package Class3;
+package ClassThirdAssignment;
 
 public class bookTest {
     public static void main(String[] args) {
